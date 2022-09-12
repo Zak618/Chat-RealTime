@@ -1,3 +1,12 @@
+<p align="center">
+      <img src="https://i.ibb.co/ZHs0sYD/QTny0r-Aga-I.jpg" alt="Project Photo" width="726">
+</p>
+
+<p align="center">
+   <img src="https://img.shields.io/badge/npm-v3.50.1-blue" alt="npm">
+   <img src="https://img.shields.io/badge/Version-0.1-yellow" alt="verion project">
+</p>
+
 # svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
